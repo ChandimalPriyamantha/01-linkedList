@@ -9,8 +9,10 @@ public class Main {
 //        myLinkedList.getTail();
 //        myLinkedList.getLength();
 
-        myLinkedList.append(3);
+         myLinkedList.append(3);
 
-        myLinkedList.printList();
+        System.out.println(myLinkedList.removeLast().value);
+
+         myLinkedList.printList();
     }
 }
