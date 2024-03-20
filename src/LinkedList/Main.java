@@ -15,9 +15,11 @@ public class Main {
 
         myLinkedList.prepend(1);
 
-       // myLinkedList.removeFirst();
+       //myLinkedList.removeFirst();
 
          myLinkedList.printList();
+
+        System.out.println(myLinkedList.get(0).value);
 
 
     }
