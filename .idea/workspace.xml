@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2607491c-ed8d-4d00-b7a0-d7e7fbf12d47" name="Changes" comment="developed remove First">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,9 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -59,7 +64,12 @@
       <workItem from="1710496215158" duration="19000" />
       <workItem from="1710497112234" duration="826000" />
       <workItem from="1710917298320" duration="1301000" />
-      <workItem from="1711383231910" duration="1938000" />
+      <workItem from="1711383231910" duration="3176000" />
+      <workItem from="1711478788397" duration="698000" />
+      <workItem from="1711542193537" duration="55000" />
+      <workItem from="1711542308323" duration="826000" />
+      <workItem from="1711546109822" duration="2025000" />
+      <workItem from="1711623280871" duration="976000" />
     </task>
     <task id="LOCAL-00001" summary="developed append">
       <created>1710172963426</created>
@@ -96,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710921931722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="developed remove First">
+      <created>1711391977821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711391977821</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
