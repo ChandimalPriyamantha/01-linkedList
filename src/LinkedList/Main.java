@@ -18,11 +18,13 @@ public class Main {
         //myLinkedList.prepend(1);
         //myLinkedList.insert(1,7);
 
-        myLinkedList.remove(1);
+        //myLinkedList.remove(1);
 
        //myLinkedList.removeFirst();
 
-         myLinkedList.printList();
+        myLinkedList.reverse();
+
+        myLinkedList.printList();
 
         //System.out.println(myLinkedList.get(0).value);
 
